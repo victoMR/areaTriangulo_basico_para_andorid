@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
                 var resultado :Int = (num1 * num2)/2
 
                 //mostramos resultado en el textView
-                tvResultado.text = "EL RESULTADO ES: $resultado"
+                tvResultado.text = "EL ÁREA ES =  $resultado"
             }
         }
     }
